@@ -1,0 +1,94 @@
+Error in library(shiny) : there is no package called ‘shiny’
+Execution halted
+
+Listening on http://127.0.0.1:3333
+
+
+Execution halted
+Error in file(filename, "r", encoding = encoding) : 
+  cannot open the connection
+Calls: source -> file
+In addition: Warning message:
+In file(filename, "r", encoding = encoding) :
+  cannot open file './src/config/index.R': No such file or directory
+Execution halted
+Error in make_router(route("/", uiHome, serverHome), route("dataImport",  : 
+  argument is missing, with no default
+Calls: source ... source -> withVisible -> eval -> eval -> make_router
+Execution halted
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+createTcpServer: address already in use
+Error in .subset2(public_bind_env, "initialize")(...) : 
+  Failed to create server
+Calls: <Anonymous> ... startApp -> startServer -> <Anonymous> -> <Anonymous>
+Execution halted
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in sideBarPanel(id = "sideBarPanelHome") : 
+  could not find function "sideBarPanel"
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execution halted
+Error in sideBarPanel(id = "sideBarPanelHome") : 
+  could not find function "sideBarPanel"
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execution halted
+Error in sideBarPanel(id = "sideBarPanelHome") : 
+  could not find function "sideBarPanel"
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execution halted
+Error in sideBarPanel(id = "sideBarPanelHome") : 
+  could not find function "sideBarPanel"
+Calls: source ... withVisible -> eval -> eval -> <Anonymous> -> dots_list
+Execution halted
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in useShinyjs() : could not find function "useShinyjs"
+Calls: <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execution halted
+Error in useShinyjs() : could not find function "useShinyjs"
+Calls: <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execution halted
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+
+Execution halted
