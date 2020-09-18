@@ -22935,3 +22935,1975 @@ Listening on http://127.0.0.1:3333
 
 
 Execution halted
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in source("./src/components/EditionPanel/index.R") : 
+  ./src/components/EditionPanel/index.R:9:3: unexpected ')'
+8:     function(input, output, session)
+9:   )
+     ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execution halted
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in if: argument is of length zero
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+Warning: Error in taglist: could not find function "taglist"
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning: Error in taglist: could not find function "taglist"
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Error in source("./src/components/EditionPanel/index.R") : 
+  ./src/components/EditionPanel/index.R:36:9: unexpected symbol
+35:         class = "content"
+36:         switchCheckBox
+            ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execution halted
+Error in switchCheckBox(id = ns("subtitles"), label = "Legendas") : 
+  could not find function "switchCheckBox"
+Calls: source ... <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execution halted
+Error in switchCheckBox(id = ns("subtitles"), label = "Legendas") : 
+  could not find function "switchCheckBox"
+Calls: source ... <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execution halted
+Error in switchCheckBox(id = ns("subtitles"), label = "Legendas") : 
+  could not find function "switchCheckBox"
+Calls: source ... <Anonymous> -> dots_list -> <Anonymous> -> dots_list
+Execution halted
+Error in paste0(`<input id` = , ns("switch_shadow"), "type = \"checkbox\"\n          class = \"switch switch--shadow shiny-bound-input shinyjs-resettable\"\n          data-shinyjs-resettable-id =",  : 
+  argument is missing, with no default
+Calls: source ... dots_list -> <Anonymous> -> dots_list -> HTML -> paste0
+Execution halted
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+
+Execution halted
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] TRUE
+Warning: Error in uptadeCheckboxInput: could not find function "uptadeCheckboxInput"
+  [No stack trace available]
+[1] FALSE
+
+
+Execution halted
+
+Listening on http://127.0.0.1:3333
+[1] TRUE
+[1] FALSE
+[1] TRUE
+[1] FALSE
+[1] FALSE
+[1] TRUE
+[1] TRUE
+[1] FALSE
+[1] FALSE
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Error in unclass(x) : cannot unclass an environment
+Calls: <Anonymous> ... getMethod -> matchSignature -> .handleSimpleError -> h
+Execution halted
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+Error in unclass(x) : cannot unclass an environment
+Calls: <Anonymous> ... getMethod -> matchSignature -> .handleSimpleError -> h
+Execution halted
+
+Listening on http://127.0.0.1:3333
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+Warning in eval(parse(text = expr), envir = parentFrame) :
+  restarting interrupted promise evaluation
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+Warning: Ignoring 3375 observations
+Error in source("./src/components/CodePlot/index.R") : 
+  ./src/components/CodePlot/index.R:5:5: unexpected symbol
+4:     class = "codePlot"
+5:     htmlOutput
+       ^
+Calls: source -> withVisible -> eval -> eval -> source
+Execution halted
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning: Error in isplayPlotServer: could not find function "isplayPlotServer"
+  [No stack trace available]
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+
+Listening on http://127.0.0.1:3333
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Rocket Lab LC-1A, M?hia Peninsula, New Zealand' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-4' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3 (Unit 2)' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-3 | Kwangmyngsng-3' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Unha-2 | Kwangmyngsng-2' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning in readRDS(input$button$datapath) :
+  input string 'Taepodong-1 | Kwangmyngsng 1' cannot be translated to UTF-8, is it valid in 'CP1252'?
+Warning: `arrange_()` is deprecated as of dplyr 0.7.0.
+Please use `arrange()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+Warning: Ignoring 3375 observations
+Warning: Ignoring 3375 observations
+Warning: Ignoring 3375 observations
+Warning: Ignoring 3375 observations
+Warning: Ignoring 3375 observations
+Warning: Ignoring 3375 observations
+
+
+Execution halted
